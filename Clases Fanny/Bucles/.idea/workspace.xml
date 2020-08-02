@@ -20,32 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0329619-d13a-4ee2-8ab2-8dc2d4159168" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bucles.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Estructuras/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Estructuras/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Estructuras/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Estructuras/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Estructuras/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Estructuras/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Estructuras/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Estructuras/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Estructuras/Estructuras.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Estructuras/out/production/Estructuras/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Estructuras/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Clases Jordi/ClasesObjetos/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Condicionales y Bucles/out/production/Condicionales y Bucles/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Condicionales y Bucles/out/production/Condicionales y Bucles/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Condicionales y Bucles/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Condicionales y Bucles/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Clases Jordi/ClasesObjetos/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clases Jordi/ClasesObjetos/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Clases Jordi/Estructuras/out/production/Estructuras/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clases Jordi/Estructuras/out/production/Estructuras/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Clases Jordi/Estructuras/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clases Jordi/Estructuras/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +51,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -99,5 +80,24 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1596135671049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596135671049" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1596135671049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596135671049" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1596135671049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596135671049" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1596135671049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596135671049" />
   </component>
 </project>
