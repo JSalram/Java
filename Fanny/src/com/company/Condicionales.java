@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Condicionales_Bucles
+public class Condicionales
 {
     public static void main(String[] args)
     {
@@ -39,26 +39,43 @@ public class Condicionales_Bucles
             System.out.println("Opción incorrecta");
         }
 
-        //// Operadores lógicos y más condicionales (==, !=, <, >, <=, >=, &&, ||)
 
-        // Cadenas y sus funciones
+// ========================================================================================
 
-        //// .equals(cadena);
-        //// .length();
-        //// .contains(cadena);
-        //// .indexOf(caracter/cadena);
-        //// .charAt(índice);
 
-        // Convertir variables
+        // REPASO CONDICIONALES
 
-        // While (int, boolean, String)
+        int numero = 5;
+        if (numero > 10)
+        {
+            System.out.println("Se cumple la primera condición");
+        }
+        else if (numero == 10)
+        {
+            System.out.println("No se cumple la anterior condición pero sí esta");
+        }
+        else  // ==> (numero < 10)
+        {
+            System.out.println("No se cumple ninguna de las condiciones anteriores");
+        }
 
-        // For
 
-        // Estructuras
-        //// Cadenas
-        ////// Funciones (equals, length, contains, indexOf, ...)
-        //// Arrays
-        //// Listas
+        //// Si no existe 'else' en un conjunto de condicionales y se cumple,
+        //// no se ejecuta ninguno y continúa con el código de después
+
+        int numero2 = 5;
+        if (numero > 10)
+        {
+            System.out.println("Se cumple la primera condición");
+        }
+        else if (numero == 10)
+        {
+            System.out.println("No se cumple la anterior condición pero sí esta");
+        }
+
+        // Código...
+        // Código...
+        // Código...
+        // Código...
     }
 }

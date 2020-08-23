@@ -6,39 +6,40 @@ public class EjerciciosResueltos
 {
     public static void main(String[] args)
     {
-        // Faltan comprobaciones y error en ellas
-        // Falta comprobar meses
-        // Año 1990?
-        // Mes float?
+        // Faltan comprobaciones y hay errores en ellas
         // Código poco limpio
-        // Falta código o no se ha enviado entero
+
         // Variables preferentemente input
-
-
-
 //        int años = 1990;
 //        int dias = 07;
-//        float meses = 03;
+//        int mes = 03; // ¿float mes?
 //
-//        if(años >= 1990) {
+//        if(años >= 1990)
+//        {
 //            System.out.println("Eres mayor de edad.");
-//        } else {
+//        }
+//        else
+//        {
 //            System.out.println("Eres menor de edad.");
 //
-//            if(dias >= 07){
-//
+//            if (dias >= 07)
+//            {
 //                System.out.println("Eres mayor de edad.");
-//            } else {
+//            }
+//            else
+//            {
 //                System.out.println("Eres menor de edad.");
 //            }
 //        }
+        // Falta código o no se ha enviado entero
 
 
-        ///////////////////////////////////////////////////////////////////////////////////////////////////
 
+        // SOLUCIÓN
 
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("Fecha de nacimiento:");
         System.out.print("Día: ");
         int dia = sc.nextInt();
         System.out.print("Mes: ");
@@ -46,23 +47,38 @@ public class EjerciciosResueltos
         System.out.print("Año: ");
         int anno = sc.nextInt();
 
-        if (anno > 2002)
+        System.out.println();
+
+        System.out.println("Fecha actual:");
+        System.out.print("Día actual: ");
+        int diaActual = sc.nextInt();
+        System.out.print("Mes actual: ");
+        int mesActual = sc.nextInt();
+        System.out.print("Año actual: ");
+        int annoMayorEdad = sc.nextInt();
+        annoMayorEdad -= 18;
+        // Restamos 18 años al año actual porque es el año en el que la gente comienza a hacerse mayor de edad
+        // Una persona es mayor de edad si nació antes del diaActual/mesActual/annoMayorEdad
+
+        System.out.println();
+
+        if (anno > annoMayorEdad)
         {
             System.out.println("No eres mayor de edad");
         }
-        else if (anno == 2002)
+        else if (anno == annoMayorEdad)
         {
-            if (mes > 8)
+            if (mes > mesActual)
             {
                 System.out.println("No eres mayor de edad");
             }
-            else if (mes == 8)
+            else if (mes == mesActual)
             {
-                if (dia > 19)
+                if (dia > diaActual)
                 {
                     System.out.println("No eres mayor de edad");
                 }
-                else
+                else // ==> (dia <= 19)
                 {
                     System.out.println("Eres mayor de edad");
                 }
@@ -76,5 +92,31 @@ public class EjerciciosResueltos
         {
             System.out.println("Eres mayor de edad");
         }
+
+
+// ========================================================================================
+
+
+/*
+        // Ejercicio: Calcular año bisiesto
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Año: ");
+        int anno = sc.nextInt();
+
+        int resto4 = anno % 4;
+        int resto100 = anno % 100;
+        int resto400 = anno % 400;
+
+        if (resto4 == 0 && resto100 != 0 && resto400 == 0)
+        {
+            System.out.println("Es bisiesto");
+        }
+        else
+        {
+            System.out.println("No es bisiesto");
+        }
+ */
     }
 }

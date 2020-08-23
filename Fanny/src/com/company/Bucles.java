@@ -6,31 +6,9 @@ public class Bucles
 {
     public static void main(String[] args)
     {
-        // Ejercicio: Calcular año bisiesto
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Año: ");
-        int anno = sc.nextInt();
-
-        int resto4 = anno % 4;
-        int resto100 = anno % 100;
-        int resto400 = anno % 400;
-
-        if (resto4 == 0 && resto100 != 0 && resto400 == 0)
-        {
-            System.out.println("Es bisiesto");
-        }
-        else
-        {
-            System.out.println("No es bisiesto");
-        }
-
-
-// ========================================================================================
-
-
         // Convertir variables
-
         //// Decimal a entero
         int entero = (int) 4.5;
         System.out.println(entero);
@@ -74,5 +52,23 @@ public class Bucles
             i++;
         }
         System.out.println(i);
+
+        //// Más tipos de bucle while (boolean, input, True, ...)
+        //// ToDo EJERCICIO: Controlador de excepciones
+
+
+// ========================================================================================
+
+
+        // Operadores de variables
+
+
+// ========================================================================================
+
+
+        // For
+
+        //// break y continue
+        //// ToDo EJERCICIO: Imprimir múltiplos de '5' del 0 al 100
     }
 }

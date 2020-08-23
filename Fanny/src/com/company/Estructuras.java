@@ -4,8 +4,10 @@ public class Estructuras
 {
     public static void main(String[] args)
     {
-        // Switch
+        // SWITCH
 
+
+// ========================================================================================
 
 
         // ARRAYS
@@ -18,7 +20,11 @@ public class Estructuras
                 // For
             // Imprimir
 
-        
+        ////// ToDo EJERCICIO: Calcular media
+
+
+// ========================================================================================
+
 
         // LISTAS
             // Definir
@@ -28,6 +34,10 @@ public class Estructuras
             // Funciones (add, get, set, remove, contains, indexOf, subList, addAll, clear, isEmpty, Collections)
             // Conversión Array-Lista (Arrays.asList, toArray)
 
+        ////// ToDo EJERCICIO: Rellenar lista de alumnos hasta escribir 'fin'
+
+
+// ========================================================================================
 
 
         // ARRAYS MULTIDIMENSIONALES
