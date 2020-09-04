@@ -37,61 +37,61 @@ public class EjerciciosResueltos
 
         // SOLUCIÓN
 
-        Scanner sc = new Scanner(System.in);
-
-        System.out.println("Fecha de nacimiento:");
-        System.out.print("Día: ");
-        int dia = sc.nextInt();
-        System.out.print("Mes: ");
-        int mes = sc.nextInt();
-        System.out.print("Año: ");
-        int anno = sc.nextInt();
-
-        System.out.println();
-
-        System.out.println("Fecha actual:");
-        System.out.print("Día actual: ");
-        int diaActual = sc.nextInt();
-        System.out.print("Mes actual: ");
-        int mesActual = sc.nextInt();
-        System.out.print("Año actual: ");
-        int annoMayorEdad = sc.nextInt();
-        annoMayorEdad -= 18;
-        // Restamos 18 años al año actual porque es el año en el que la gente comienza a hacerse mayor de edad
-        // Una persona es mayor de edad si nació antes del diaActual/mesActual/annoMayorEdad
-
-        System.out.println();
-
-        if (anno > annoMayorEdad)
-        {
-            System.out.println("No eres mayor de edad");
-        }
-        else if (anno == annoMayorEdad)
-        {
-            if (mes > mesActual)
-            {
-                System.out.println("No eres mayor de edad");
-            }
-            else if (mes == mesActual)
-            {
-                if (dia > diaActual)
-                {
-                    System.out.println("No eres mayor de edad");
-                }
-                else // ==> (dia <= 19)
-                {
-                    System.out.println("Eres mayor de edad");
-                }
-            }
-            else
-            {
-                System.out.println("Eres mayor de edad");
-            }
-        }
-        else
-        {
-            System.out.println("Eres mayor de edad");
-        }
+//        Scanner sc = new Scanner(System.in);
+//
+//        System.out.println("Fecha de nacimiento:");
+//        System.out.print("Día: ");
+//        int dia = sc.nextInt();
+//        System.out.print("Mes: ");
+//        int mes = sc.nextInt();
+//        System.out.print("Año: ");
+//        int anno = sc.nextInt();
+//
+//        System.out.println();
+//
+//        System.out.println("Fecha actual:");
+//        System.out.print("Día actual: ");
+//        int diaActual = sc.nextInt();
+//        System.out.print("Mes actual: ");
+//        int mesActual = sc.nextInt();
+//        System.out.print("Año actual: ");
+//        int annoMayorEdad = sc.nextInt();
+//        annoMayorEdad -= 18;
+//        // Restamos 18 años al año actual porque es el año en el que la gente comienza a hacerse mayor de edad
+//        // Una persona es mayor de edad si nació antes del diaActual/mesActual/annoMayorEdad
+//
+//        System.out.println();
+//
+//        if (anno > annoMayorEdad)
+//        {
+//            System.out.println("No eres mayor de edad");
+//        }
+//        else if (anno == annoMayorEdad)
+//        {
+//            if (mes > mesActual)
+//            {
+//                System.out.println("No eres mayor de edad");
+//            }
+//            else if (mes == mesActual)
+//            {
+//                if (dia > diaActual)
+//                {
+//                    System.out.println("No eres mayor de edad");
+//                }
+//                else // ==> (dia <= 19)
+//                {
+//                    System.out.println("Eres mayor de edad");
+//                }
+//            }
+//            else
+//            {
+//                System.out.println("Eres mayor de edad");
+//            }
+//        }
+//        else
+//        {
+//            System.out.println("Eres mayor de edad");
+//        }
 
 
 // ========================================================================================

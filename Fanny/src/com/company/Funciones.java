@@ -10,6 +10,13 @@ public class Funciones
     // MÉTODOS / FUNCIONES
     //// Void
 
-    //// Con parámetros (return)
+    ////// ToDo EJERCICIO: imprimeSerie
+    ////// ToDo EJERCICIO: tablaMultiplicar
+
+
+    //// Return
+
+    ////// ToDo EJERCICIO: parImpar
+    ////// ToDo EJERCICIO: signo
 
 }
