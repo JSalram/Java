@@ -1,0 +1,14 @@
+Estructuras de datos (Tipos de datos complejos)
+-----------------------------------------------
+
+Homogéneos / Heterogéneos
+Estáticas / Dinámicas (Tamaño)
+Lineales / No lineales (Guardan datos)
+
+- Arrays (Homogéneos, Estáticos, Lineales)
+- Cadenas (Homogéneos, Estáticos, Lineales)
+- Listas (Homogéneas, Dinámicas, Lineales)
+- Arrays Multidimensionales (Homogéneos, Estáticos, No lineales)
+- Clases (Structs) (Heterogéneas, Estáticas, Lineales)
+
+// -Árboles y Grafos (Homogéneos, Dinámicos, No lineales)

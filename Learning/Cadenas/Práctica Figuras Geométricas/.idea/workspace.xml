@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8b20e4d-3fda-467d-a9d6-cbf6f419b588" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UpTQk1TugMP1oYEoQ1SLdEFe6b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Práctica Figuras Geométricas" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8b20e4d-3fda-467d-a9d6-cbf6f419b588" name="Default Changelist" comment="" />
+      <created>1576052522407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576052522407</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1576105401583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576105401583" />
+    <state width="1323" height="308" key="GridCell.Tab.0.bottom" timestamp="1576105402695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="308" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576105402695" />
+    <state width="1323" height="308" key="GridCell.Tab.0.center" timestamp="1576105402695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="308" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576105402695" />
+    <state width="1323" height="308" key="GridCell.Tab.0.left" timestamp="1576105402695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="308" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576105402695" />
+    <state width="1323" height="308" key="GridCell.Tab.0.right" timestamp="1576105402695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="308" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576105402695" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1576102041599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576102041599" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1576102041599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576102041599" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1576102041599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576102041599" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1576102041599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576102041599" />
+    <state x="413" y="119" key="extract.method.dialog" timestamp="1576099909851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1576099909851" />
+    <state x="405" y="275" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1576079108879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="275" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1576079108879" />
+  </component>
+</project>

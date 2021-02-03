@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85440623-6de5-46a2-9d76-92dd39e5ad16" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../BDA. Base de datos/Oracle DataModeler.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LMSGI. Lenguaje de marcas/CSS/css_pos-ejemplo/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LMSGI. Lenguaje de marcas/CSS/t05-posicionamiento/css_pos-ejemplo/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R01 Adicionales/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R01 Adicionales/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Alumno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Grupo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Grupo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1Y4LW6e79ZLJkA5GiXzi1p2DtUK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Relacion Clases 2 - Grupo y Alumno" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85440623-6de5-46a2-9d76-92dd39e5ad16" name="Default Changelist" comment="" />
+      <created>1582196948033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582196948033</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1582197471555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582197471555" />
+    <state x="651" y="171" width="424" height="482" key="FileChooserDialogImpl" timestamp="1583699275249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="120" width="424" height="482" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583270833459" />
+    <state x="651" y="171" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583699275249" />
+    <state width="1323" height="473" key="GridCell.Tab.0.bottom" timestamp="1583760167121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="473" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583760167121" />
+    <state width="1877" height="632" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583700352610" />
+    <state width="1323" height="473" key="GridCell.Tab.0.center" timestamp="1583760167120">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="473" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583760167120" />
+    <state width="1877" height="632" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583700352610" />
+    <state width="1323" height="473" key="GridCell.Tab.0.left" timestamp="1583760167120">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="473" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583760167120" />
+    <state width="1877" height="632" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583700352609" />
+    <state width="1323" height="473" key="GridCell.Tab.0.right" timestamp="1583760167120">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="473" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583760167120" />
+    <state width="1877" height="632" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583700352610" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1583700181097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583700181097" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1583700181097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583700181097" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1583700181097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583700181097" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1583700181097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583700181097" />
+    <state x="65" y="0" key="new project wizard" timestamp="1582203238980">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1582203238980" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1582197738667">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1582197738667" />
+  </component>
+</project>
